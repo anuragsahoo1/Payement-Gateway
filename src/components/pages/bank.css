@@ -1,0 +1,18 @@
+
+.bank-container{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-top: 32vh;
+    padding-bottom: 52vh;
+    /* background-image: url("https://media.istockphoto.com/vectors/donation-white-line-seamless-pattern-vector-id956090350?k=6&m=956090350&s=612x612&w=0&h=tt4rXocVE2ybkRzWXP0QEaHSWaf1Ya6r1mDlmb-kklg="); */
+}
+.bank-container h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color:blue;
+    
+}
+.form-container{
+    padding-left: 3vh;
+}
